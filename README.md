@@ -1,0 +1,1 @@
+Write a brief description in the file about what you've learned in the Git + GitHub training.
